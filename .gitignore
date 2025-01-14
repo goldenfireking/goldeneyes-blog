@@ -24,6 +24,7 @@ dist-ssr
 *.sln
 *.sw?
 
+# vitepress缓存
 ./docs/.vitepress/cache/*
 
 # history
