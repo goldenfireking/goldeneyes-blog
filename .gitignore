@@ -24,8 +24,7 @@ dist-ssr
 *.sln
 *.sw?
 
-# turbo的任务日志
-**/.turbo/
+./docs/.vitepress/cache/*
 
 # history
 .history
