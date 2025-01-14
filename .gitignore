@@ -25,7 +25,7 @@ dist-ssr
 *.sw?
 
 # vitepress缓存
-./docs/.vitepress/cache/*
+/docs/.vitepress/cache
 
 # history
 .history
