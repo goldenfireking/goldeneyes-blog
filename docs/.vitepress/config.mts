@@ -20,7 +20,7 @@ export default defineConfig({
       { text: 'UIUX', activeMatch: '/uiux', link: '/uiux/' }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/goldenfireking/goldeneyes-blog' }
     ],
     footer: {
       copyright:
