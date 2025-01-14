@@ -8,7 +8,6 @@ export default defineConfig({
   lang: 'zh-CN',
   ignoreDeadLinks: true, // 忽略死链接
   lastUpdated: true, // 显示最后更新时间
-  outDir: '../public',
   markdown: {
     // 代码块的风格
     theme: 'monokai'
