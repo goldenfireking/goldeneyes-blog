@@ -1,3 +1,3 @@
 # 我的前端及UIUX Blog
 
-## git pages: [[http://](https://goldenfireking.github.io/goldeneyes-blog)](https://goldenfireking.github.io/goldeneyes-blog)
+## <a href="https://goldenfireking.github.io/goldeneyes-blog" target="_blank">Github Pages</a>
